@@ -1,4 +1,4 @@
-# @gop153/uuid
+# @gope153/uuid
 
 ## installation
 just install package
